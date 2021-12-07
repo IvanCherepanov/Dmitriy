@@ -8,6 +8,7 @@ function fillHeader() {
     <div class="main_menu">
     <div class="logo">
     <a href="index.html"><img class="logo_item" src="../img/logo.png" alt="Logo"></a>
+    <img src="img/logo.png">
     </div>
     <div class="menu">
     <div class="menu_left">
