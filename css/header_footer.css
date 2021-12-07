@@ -304,3 +304,23 @@ a:hover {
     margin-left: 150px;
   }
 }
+
+@media (max-width: 670px) {
+  .contacts {
+    display: none;
+  }
+  .find {
+    width: 40%;
+    min-width: 200px;
+  }
+  .menu_right_main {
+    width: 70px;
+
+  }
+  .header_item_text {
+    display: none;
+  }
+  .menu_bottom {
+    justify-content: space-around;
+  }
+}
